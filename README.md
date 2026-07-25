@@ -6,8 +6,7 @@ I was scrolling on my phone and came accross this TikTok about speed reading usi
 
 This is made using one prompt from GPT 5.6 Sol Medium, and under 10 prompts for refinements. Use it to train ur speed reading, or just have fun with it.
 
-<details>
-<summary>The prompt i used</summary>
+## The prompt I used
 
 ```text
 Goal: Turn webpage articles into a full-screen RSVP reader.
@@ -35,8 +34,6 @@ Keyboard shortcuts
 
 For smart text extraction use Mozilla Readability. And use ORP logic for the focus letter
 ```
-
-</details>
 
 ## Demo
 
