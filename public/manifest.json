@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Speed Reader",
+  "description": "Turn the article in front of you into a focused, one-word-at-a-time reading session.",
+  "version": "0.1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Open Speed Reader"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}
