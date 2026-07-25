@@ -40,9 +40,7 @@ For smart text extraction use Mozilla Readability. And use ORP logic for the foc
 
 ## Demo
 
-<video src="assets/speed-reader-demo.mp4" width="420" controls>
-<a href="assets/speed-reader-demo.mp4">Watch the speed reader demo</a>
-</video>
+<a href="assets/speed-reader-demo.mp4"><img src="assets/speed-reader-demo.gif" alt="Animated demo of the speed reader extension" width="420"></a>
 
 ## Try it on Desktop
 
